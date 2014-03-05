@@ -1,5 +1,6 @@
 {
-	"NODE_ENV" : "prod",
-	"MONGO_URI" : "localhost" ,
-	"MONGO_DB" : "adaptation"
+	"NODE_ENV": "prod",
+	"MONGO_URI": "localhost",
+	"MONGO_DB": "adaptation",
+	"URL_REQUEST": "http://54.204.239.120"
 }
